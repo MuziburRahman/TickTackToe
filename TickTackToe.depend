@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1466883477 source:f:\projects\gui\ticktacktoe\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<windowsx.h>
+	<math.h>
+	<gdiplus.h>
+	<stdlib.h>
+	"class.cpp"
+	"TickTackToe_Algorithm.h"
+
+1466878684 f:\projects\gui\ticktacktoe\class.cpp
+
+1466879481 f:\projects\gui\ticktacktoe\ticktacktoe_algorithm.h
+	<string>
+	<sstream>
+
